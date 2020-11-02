@@ -4,6 +4,6 @@ version: 0.1.0
 authors:
   - Brandon McGinty-Carroll <bmmcginty@bmcginty.us>
 
-crystal: 0.20.4+36
+crystal: 0.35.1
 
 license: MIT
